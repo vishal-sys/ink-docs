@@ -43,7 +43,7 @@ You can then use `cargo contract --help` to start exploring the commands made av
 In order to initialize a new ink! project you can use:
 
 ```bash
-cargo contract new flipper
+cargo contract new flipper1
 ```
 
 This will create a folder `flipper` in your work directory.
